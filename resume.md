@@ -3,7 +3,7 @@ Santa Barbara, California | 805.896.8625 | stepgar@gmail.com<br>
 
 **UX Developer**<br>
 Strategic Healthcare Programs | August 2011 - Present<br>
-_Complete UX Front-end Development projects interacting with ASP .NET driven company website and web applications. Utilize jQuery, JavaScript and pre-processing languages (i.e. Sass and Less) to enhance the website user experience and dynamic nature of web pages. Incorporate cross-platform best practices using HTML5 Boilerplate and Twitter Bootstrap. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce graphic design solutions for promotional material including: advertisements, packaging and trade show signage._
+_Complete UX and Front-end Development projects interacting with ASP .NET driven company website and web applications. Utilize jQuery, JavaScript, AngularJS and pre-processing languages (i.e. Sass and Less) to enhance the website user experience and dynamic nature of web pages. Incorporate cross-platform best practices using HTML5 Boilerplate and Twitter Bootstrap. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce graphic design solutions for promotional material including: advertisements, packaging and trade show signage._
 
 **Freelance Designer**<br>
 GVDH | January 2004 - 2012<br>
