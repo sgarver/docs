@@ -1,5 +1,5 @@
 <h2 style="font-weight: normal; letter-spacing: .5px; margin: 0;">stephen garver</h2>
-Santa Barbara, California | stepgar@gmail.com<br>
+Santa Barbara, California | 805.896.8625 | stepgar@gmail.com<br>
 
 **UX Developer**<br>
 Strategic Healthcare Programs | August 2011 - Present<br>
