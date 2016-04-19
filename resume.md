@@ -3,7 +3,7 @@ Santa Barbara, California | 805.896.8625 | sgarver@protonmail.com
 
 **Node Developer and NPM Package Maintainer**  
 Rotu | November 2015 - Present  
-_Develop and maintain Node.js application npm package Rotu: a micro page router for the JADE template engine. Implement server-side JavaScript using ES6 syntax and the class design pattern. Maintain project documentation using Markdown. Build Rotu-Boilerplate sample project website. Coordinate releases to Github and publishing the Rotu package to NPM._ 
+_Develop and maintain Node.js application NPM package Rotu: a micro page router for the JADE template engine. Implement server-side JavaScript using ES6 syntax and the class design pattern. Maintain project documentation using Markdown. Build Rotu-Boilerplate sample project website. Coordinate releases to Github and publishing the Rotu package to NPM._ 
 
 **UX/Front-End Web Developer**  
 Strategic Healthcare Programs | August 2011 - Present  
