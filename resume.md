@@ -20,7 +20,3 @@ _Create press ready layouts for invitations and announcements. Consult with clie
 **Production Artist**  
 Tulino Design | March 2005 - June 2007  
 _Work with creative team to design press ready packaging. Produce illustrator artwork from hand drawn comprehensives. Measure from existing boxes to create dielines. Print files on 36 inch printer for prototyping. Assist in retouching and digital processing for in-house photo studio._
-
-**Production Artist**  
-Too Good Gourmet | January 2002 - January 2005  
-_Work with owner art director to create press ready packaging. Scan watercolor artwork made by commissioned artist. Color adjust and modify art to fit on factory supplied dielines. Print and mock-up boxes for trade shows and client meetings as well as produce seasonal catalog, company business cards and promotional postcards. Update and maintain company website._
