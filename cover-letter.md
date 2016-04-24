@@ -4,7 +4,7 @@ I feel that my skills and experience are a great fit for this position. Please f
 A bit about me:   
 I've been at my current position since August of 2011 (Approximately 5 years). I presently work for a software company in Santa Barbara, California, that provides data processing services for the home health and hospice markets. The title of my current position is UX/Front-End Developer. The skills I use on a daily basis include: JavaScript (Angular, ReactJS, jQuery, ES5 and ES6), unit testing with Jasmine (JavaScript) and NUnit (VB.Net), HTML and CSS -- (SASS, LESS, HTML5, Bootstrap), wireframe and mockup design using Adobe Creative Cloud, Perforce version control system, Visual Studio to develop and maintain web applications for Asp.Net driven CMS.
 
-I'm also the developer and package maintainer for the rotu NPM package: Rotu: micro page routing for jade https://www.npmjs.com/package/rotu
+I'm also the developer and package maintainer for the Rotu NPM package: Rotu: micro page routing for jade https://www.npmjs.com/package/rotu
 
 Current Employer's Website: https://shpdata.com   
 Github account: https://github.com/sgarver  
