@@ -4,7 +4,7 @@ Santa Barbara, California | 805.896.8625 | stepgar@gmail.com
 ###Employment
 **UX/Front-End Web Developer**  
 Strategic Healthcare Programs | August 2011 - Present  
-_Build client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET & gulp. Write Unit tests using jasmine with the karma test runner. Build and maintain .NET master page templates, and server-side usercontrols for Umbraco CMS. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce graphic design solutions for promotional material including: advertisements, packaging and trade show signage._
+_Build client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET & gulp. Write Unit tests using jasmine with the karma test runner. Build and maintain .NET master page templates, and server-side usercontrols for Umbraco CMS. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce design elements and marketing materials._
 
 **Freelance Designer**  
 GVDH | January 2004 - August 2012  
