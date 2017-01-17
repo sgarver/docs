@@ -1,10 +1,7 @@
 <h2 style="font-weight: normal; letter-spacing: .5px; margin: 0;">stephen garver</h2>
 Santa Barbara, California | 805.896.8625 | sgarver@protonmail.com  
 
-**Node Developer and NPM Package Maintainer**  
-Rotu | November 2015 - Present  
-_Develop and maintain Node.js application NPM package Rotu: a micro page router for the JADE template engine. Implement server-side JavaScript using ES6 syntax and the class design pattern. Maintain project documentation using Markdown. Build Rotu-Boilerplate sample project website. Coordinate releases to Github and publishing the Rotu package to NPM._ 
-
+###Employment
 **UX/Front-End Web Developer**  
 Strategic Healthcare Programs | August 2011 - Present  
 _Build client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET & gulp. Write Unit tests using jasmine with the karma test runner. Build and maintain .NET master page templates, and server-side usercontrols for Umbraco CMS. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce graphic design solutions for promotional material including: advertisements, packaging and trade show signage._
@@ -20,3 +17,8 @@ _Create press ready layouts for invitations and announcements. Consult with clie
 **Production Artist**  
 Tulino Design | March 2005 - June 2007  
 _Work with creative team to design press ready packaging. Produce illustrator artwork from hand drawn comprehensives. Measure from existing boxes to create dielines. Print files on 36 inch printer for prototyping. Assist in retouching and digital processing for in-house photo studio._
+
+###Open Source Contributions
+**Node Developer and NPM Package Maintainer**  
+Rotu | November 2015 - Present  
+_Develop and maintain Node.js application NPM package Rotu: a micro page router for the JADE template engine. Implement server-side JavaScript using ES6 syntax and the class design pattern. Maintain project documentation using Markdown. Build Rotu-Boilerplate sample project website. Coordinate releases to Github and publishing the Rotu package to NPM._ 
