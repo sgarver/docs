@@ -1,4 +1,4 @@
-<h2 style="font-weight: normal; letter-spacing: .5px; margin: 0;">stephen garver</h2>
+<h2 style="font-weight: normal; letter-spacing: .5px; margin: 0;">Stephen Garver</h2>
 Santa Barbara, California | 805.896.8625 | stepgar@gmail.com  
 
 ###Employment
