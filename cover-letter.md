@@ -2,7 +2,7 @@ Dear Hiring Manager,
 I feel that my skills and experience are a great fit for this position. Please feel free to contact me to arrange an interview.
 
 A bit about me:   
-I've been at my current position since August of 2011 (Approximately 5 years). I presently work for a software company in Santa Barbara, California, that provides data processing services for the home health and hospice markets. The title of my current position is UX/Front-End Developer. The skills I use on a daily basis include: JavaScript (Angular, ReactJS, jQuery, ES5 and ES6), unit testing with Jasmine (JavaScript) and NUnit (VB.Net), HTML and CSS -- (SASS, LESS, HTML5, Bootstrap), wireframe and mockup design using Adobe Creative Cloud, Perforce version control system, Visual Studio to develop and maintain web applications for Asp.Net driven CMS.
+I've been at my current position since August of 2011. I presently work for a software company in Santa Barbara, California, that provides data processing services for the home health and hospice markets. The title of my current position is UX/Front-End Developer. The skills I use on a daily basis include: JavaScript (Angular, ReactJS, jQuery, ES5 and ES6), Gulp, Karma, client-side unit testing with Jasmine (JavaScript) and NUnit (VB.Net), HTML and CSS -- (SASS, LESS, HTML5, Bootstrap), wireframe and mockup design using Adobe Creative Cloud, Perforce version control system, Visual Studio to develop web 2.0 API end-points and T-SQL to query MS SQLServer. While my primary responsibilities focus on JavaScript and front-end technologies, most recently I have been working more with the server-side technologies.
 
 I'm also the developer and package maintainer for the Rotu NPM package: Rotu: micro page routing for jade https://www.npmjs.com/package/rotu
 
@@ -22,7 +22,7 @@ Santa Barbara City College
 Try jQuery Learn the basic building blocks of jQuery 2.0 
 
 --jQuery Air: Captain's Log--  
-jQuery best practices & useful techniques of jQuery's efficient JavaScript library 
+jQuery best practices and useful techniques of jQuery's efficient JavaScript library 
 
 --A Sip of CoffeeScript--  
 Learn CoffeeScript, the powerful little language that compiles into JavaScript 
