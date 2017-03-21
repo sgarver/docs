@@ -8,7 +8,6 @@ I'm also the developer and package maintainer for the Rotu NPM package: Rotu: mi
 
 Current Employer's Website: https://shpdata.com   
 Github account: https://github.com/sgarver  
-Blog: http://clientsidetoolbox.com  
 
 A little more:   
 --Scholastic Award--   
