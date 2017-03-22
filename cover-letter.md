@@ -33,4 +33,4 @@ jQuery Conference SF 2012 San Francisco, CA | June 28-29 2012
 Joslyn Electronics | March 2001 - May 2001 (3 months)  
 Design and develop touch screen interface software for error tracking in a manufacturing environment. This software was responsible for recording defect information and graphing the amount of mistakes in different assembly areas. Coded in Visual Basic; additionally PowerPoint slides used as an interface view for kiosk. Best Regards, 
 
-Stephen Garver 805-896-8625
+Stephen Garver | mobile 805-896-8625
