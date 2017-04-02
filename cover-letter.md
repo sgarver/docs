@@ -11,26 +11,26 @@ SocketCat: A WebSockets chat client built with electron https://github.com/sgarv
 Current Employer's Website: https://shpdata.com
 Github account: https://github.com/sgarver
 
-A little more:
---Scholastic Award--
-Phi Beta Kappa while Attending SBCC
+A little more:  
+--Scholastic Award--  
+Phi Beta Kappa while Attending SBCC  
 
---Education--
-Santa Barbara City College
-85 Units towards an A.S. Degree in Computer Science
+--Education--  
+Santa Barbara City College  
+85 Units towards an A.S. Degree in Computer Science  
 
---Code School Online Education--
-Try jQuery Learn the basic building blocks of jQuery 2.0
+--Code School Online Education--  
+Try jQuery Learn the basic building blocks of jQuery 2.0  
 
---jQuery Air: Captain's Log--
-jQuery best practices and useful techniques of jQuery's efficient JavaScript library
+--jQuery Air: Captain's Log--  
+jQuery best practices and useful techniques of jQuery's efficient JavaScript library  
 
---A Sip of CoffeeScript--
-Learn CoffeeScript, the powerful little language that compiles into JavaScript
+--A Sip of CoffeeScript--  
+Learn CoffeeScript, the powerful little language that compiles into JavaScript  
 
---Industry Related Conference--
-jQuery Conference SF 2012 San Francisco, CA | June 28-29 2012
+--Industry Related Conference--  
+jQuery Conference SF 2012 San Francisco, CA | June 28-29 2012  
 
---Visual Basic Internship--
-Joslyn Electronics | March 2001 - May 2001 (3 months)
+--Visual Basic Internship--  
+Joslyn Electronics | March 2001 - May 2001 (3 months)  
 Design and develop touch screen interface software for error tracking in a manufacturing environment. This software was responsible for recording defect information and graphing the amount of mistakes in different assembly areas. Coded in Visual Basic; additionally PowerPoint slides used as an interface view for kiosk.
