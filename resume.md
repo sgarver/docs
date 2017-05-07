@@ -18,7 +18,7 @@ _Create press ready layouts for invitations and announcements. Consult with clie
 Tulino Design | March 2005 - June 2007  
 _Work with creative team to design press ready packaging. Produce illustrator artwork from hand drawn comprehensives. Measure from existing boxes to create dielines. Print files on 36 inch printer for prototyping. Assist in retouching and digital processing for in-house photo studio._
 
-###Open Source Contributions
+###Open Source Contributions  
 **Node Developer and NPM Package Maintainer**  
 Rotu | November 2015 - Present  
 _Develop and maintain Node.js application NPM package Rotu: a micro page router for the JADE template engine. Implement server-side JavaScript using ES6 syntax. Maintain project documentation using Markdown. Build Rotu-Boilerplate sample project website. Coordinate releases to Github and publishing the Rotu package to NPM._ 
