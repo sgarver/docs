@@ -1,7 +1,7 @@
 <h2 style="font-weight: normal; letter-spacing: .5px; margin: 0;">Stephen Garver</h2>
 Santa Barbara, California | 805.896.8625 | stepgar@gmail.com  
 
-###Employment  
+### Employment  
 **UX/Front-End Web Developer**  
 Strategic Healthcare Programs | August 2011 - Present  
 _Build client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET and gulp. Write Unit tests using jasmine with the karma test runner. Develop server-side models and Web API 2.0 end-points. Load data implementing parameterized T-SQL. Build and maintain .NET master page templates, and server-side usercontrols for Umbraco CMS. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce wireframes and design elements._
@@ -18,7 +18,7 @@ _Create press ready layouts for invitations and announcements. Consult with clie
 Tulino Design | March 2005 - June 2007  
 _Work with creative team to design press ready packaging. Produce illustrator artwork from hand drawn comprehensives. Measure from existing boxes to create dielines. Print files on 36 inch printer for prototyping. Assist in retouching and digital processing for in-house photo studio._
 
-###Open Source Contributions  
+### Open Source Contributions  
 **Node Developer and NPM Package Maintainer**  
 Rotu | November 2015 - Present  
 _Develop and maintain Node.js application NPM package Rotu: a micro page router for the JADE template engine. Implement server-side JavaScript using ES6 syntax. Maintain project documentation using Markdown. Build Rotu-Boilerplate sample project website. Coordinate releases to Github and publishing the Rotu package to NPM._ 
