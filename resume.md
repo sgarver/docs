@@ -1,5 +1,5 @@
 <h2 style="font-weight: normal; letter-spacing: .5px; margin: 0;">Stephen Garver</h2>
-Santa Barbara, California | 805.325.5317 | stepgar@gmail.com
+Santa Barbara, California | 805.325.5317 | stepgar@gmail.com<br/>
 
 **Software Engineer**  
 Strategic Healthcare Programs | December 2018 - Present  
@@ -35,10 +35,9 @@ _Work with creative team to design press ready packaging. Produce illustrator ar
 - MTA: Software Development Fundamentals - Certified 2017 
 
 ### Education
-Devry University 
-CIS with Digital Forensics Specialization 
-Partial credit
-2010-2012
+Devry University  
+CIS with Digital Forensics Specialization (partial credit)  
+2010-2012  
 
 Santa Barbara City College  
 85 Units towards an A.S. Degree in Computer Science  
