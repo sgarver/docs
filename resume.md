@@ -3,7 +3,7 @@
 
 **Software Engineer**  
 Strategic Healthcare Programs | December 2018 - Present  
-_Implement full stack software solutions using .Net written in VB and CSharp. Design and implement; data models, interfaces, DTOs. design and implement DDL for sqlserver database._
+_Implement full stack software solutions using .Net written in VB and CSharp. Design and implement; data models, interfaces, DTOs. Design and implement DDL for sqlserver database. Leverage NUnit to facilitate automated unit testing. Track code changes with Perforce._
 
 **Scrum Master**  
 Strategic Healthcare Programs | October 2018 - Present  
