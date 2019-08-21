@@ -1,5 +1,5 @@
 <h2 style="font-weight: normal; letter-spacing: .5px; margin: 0;">Stephen Garver</h2>
-Santa Barbara, California | 805.325.5317 | stepgar@gmail.com  
+Santa Barbara, California | 805.325.5317 | stepgar@gmail.com
 
 Strategic Healthcare Programs | August 2011 - Present  
 **Software Engineer**  
