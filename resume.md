@@ -45,6 +45,6 @@ Santa Barbara City College
 Inducted as a Member of Phi Beta Kappa
 
 ### Open Source Contribution 
-Rotu | November 2015 - 2016  
 **Node Developer and NPM Package Maintainer**  
+Rotu | November 2015 - 2016  
 _Develop and maintain Node.js application NPM package Rotu: a micro page router for the JADE template engine. Implement server-side JavaScript using ES6 syntax. Maintain project documentation using Markdown. Build Rotu-Boilerplate sample project website. Coordinate releases to Github and publishing the Rotu package to NPM._
