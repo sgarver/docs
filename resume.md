@@ -1,9 +1,9 @@
 <h2 style="font-weight: normal; letter-spacing: .5px; margin: 0;">Stephen Garver</h2>
-Santa Barbara, California | 805.325.5317 | stepgar@gmail.com
+<h3 style="font-weight: normal; letter-spacing: .5px; margin-top: 0;">Santa Barbara, California | 805.325.5317 | stepgar@gmail.com</h3>
 
 **Software Engineer**  
 Strategic Healthcare Programs | December 2018 - Present  
-_Implement full stack software solutions using .Net written in VB and CSharp. Design and implement; data models, interfaces, DTOs. design and implement DDL for sqlserver database._
+_Implement full stack software solutions using .Net written in VB and CSharp. Design and implement; data models, interfaces, DTOs. Design and implement DDL for sqlserver database. Leverage NUnit to facilitate automated unit testing. Track code changes with Perforce._
 
 **Scrum Master**  
 Strategic Healthcare Programs | October 2018 - Present  
@@ -35,10 +35,9 @@ _Work with creative team to design press ready packaging. Produce illustrator ar
 - MTA: Software Development Fundamentals - Certified 2017 
 
 ### Education
-Devry University 
-CIS with Digital Forensics Specialization 
-Partial credit
-2010-2012
+Devry University  
+CIS with Digital Forensics Specialization (partial credit)  
+2010-2012  
 
 Santa Barbara City College  
 85 Units towards an A.S. Degree in Computer Science  
@@ -46,6 +45,6 @@ Santa Barbara City College
 Inducted as a Member of Phi Beta Kappa
 
 ### Open Source Contribution 
-Rotu | November 2015 - 2016  
 **Node Developer and NPM Package Maintainer**  
+Rotu | November 2015 - 2016  
 _Develop and maintain Node.js application NPM package Rotu: a micro page router for the JADE template engine. Implement server-side JavaScript using ES6 syntax. Maintain project documentation using Markdown. Build Rotu-Boilerplate sample project website. Coordinate releases to Github and publishing the Rotu package to NPM._
