@@ -35,10 +35,6 @@ _Work with creative team to design press ready packaging. Produce illustrator ar
 - MTA: Software Development Fundamentals - Certified 2017 
 
 ### Education
-Devry University  
-CIS with Digital Forensics Specialization (partial credit)  
-2010-2012  
-
 Santa Barbara City College  
 85 Units towards an A.S. Degree in Computer Science  
 
