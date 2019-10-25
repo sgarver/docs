@@ -14,7 +14,7 @@ Strategic Healthcare Programs | November 2013 - December 2018
 _Create client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET and Gulp. Write Unit tests using Jasmine with the Karma test runner. Develop server-side models and Web API 2.0 end-points. Load data implementing parameterized T-SQL._
 
 **Web Designer**  
-Strategic Healthcare Programs | October 2011 - November 2013  
+Strategic Healthcare Programs | August 2011 - November 2013  
 _Build and maintain .NET master page templates, and server-side usercontrols for Umbraco CMS. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce wireframes and design elements. Produce maraketing materials using Adobe Creative Suite._
 
 **Freelance Graphic Designer**  
