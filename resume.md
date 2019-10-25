@@ -2,20 +2,10 @@
 <h3 style="font-weight: normal; letter-spacing: .5px; margin-top: 0;">Santa Barbara, California | 805.350.4436 | stepgar@gmail.com</h3>
 
 **Software Engineer**  
-Strategic Healthcare Programs | December 2018 - Present  
-_Implement full stack software solutions using .Net written in VB and CSharp. Design and implement; data models, interfaces, DTOs. Design and implement DDL for sqlserver database. Leverage NUnit to facilitate automated unit testing. Track code changes with Perforce._
+Strategic Healthcare Programs | August 2011 - Present  
+_Implement full stack software solutions using .Net written in VB and CSharp. Design and implement; data models, interfaces, DTOs. Design and implement DDL for servers database. Leverage NUnit to facilitate automated unit testing. Track code changes with Perforce.
 
-**Scrum Master**  
-Strategic Healthcare Programs | October 2018 - Present  
-_Facilitate the Agile Scrum software development cycle as scrum master of the software team. Run the morning stand-up, draft the end of sprint report, and attending scrum of scrums._
-
-**UX/Front-end Developer**  
-Strategic Healthcare Programs | November 2013 - December 2018  
-_Create client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET and Gulp. Write Unit tests using Jasmine with the Karma test runner. Develop server-side models and Web API 2.0 end-points. Load data implementing parameterized T-SQL._
-
-**Web Designer**  
-Strategic Healthcare Programs | August 2011 - November 2013  
-_Build and maintain .NET master page templates, and server-side usercontrols for Umbraco CMS. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce wireframes and design elements. Produce maraketing materials using Adobe Creative Suite._
+Create client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET and Gulp. Write Unit tests using Jasmine with the Karma test runner. Develop server-side models and Web API 2.0 end-points. Load data implementing parameterized T-SQL._
 
 **Freelance Graphic Designer**  
 Various Companies | January 2004 - August 2012  
