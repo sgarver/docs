@@ -3,9 +3,9 @@
 
 **Software Engineer**  
 Strategic Healthcare Programs | August 2011 - Present  
-_Implement full stack software solutions using .Net written in VB and CSharp. Design and implement; data models, interfaces, DTOs. Design and implement DDL for servers database. Leverage NUnit to facilitate automated unit testing. Track code changes with Perforce.
+_Implement full stack software solutions using .Net written in VB and CSharp. Design and implement; data models, interfaces, DTOs. Design and implement DDL for servers database. Leverage NUnit to facilitate automated unit testing. Track code changes with Perforce._
 
-Create client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET and Gulp. Write Unit tests using Jasmine with the Karma test runner. Develop server-side models and Web API 2.0 end-points. Load data implementing parameterized T-SQL._
+_Create client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET and Gulp. Write Unit tests using Jasmine with the Karma test runner. Develop server-side models and Web API 2.0 end-points. Load data implementing parameterized T-SQL._
 
 **Freelance Graphic Designer**  
 Various Companies | January 2004 - August 2012  
