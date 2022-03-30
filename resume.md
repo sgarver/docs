@@ -6,7 +6,7 @@ Buellton, CA
 
 Stephen Garver is a Software Engineer with 10+ years experience working with web applications.
 
-**Skills**
+**Skills**  
 Programming Languages  
 * JavaScript ES6
 * CSharp
@@ -16,21 +16,16 @@ Programming Languages
 * LESS
 * CSS
 
-**Technologies**  
+Technologies  
 * Webpack
 * .NET Framework
 * SQL Server
 
-**Tools**  
+Tools  
 * VIM  
 * Visual Studio  
 * Visual Studio Code  
 * Powershell  
-
-Strategic Healthcare Programs | December 2018 - Present  
-**Project Name - Role**  
-* Implemented blah using blah
-
 
 **Software Engineer**  
 Strategic Healthcare Programs | December 2018 - Present  
