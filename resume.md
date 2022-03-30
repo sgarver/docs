@@ -1,8 +1,9 @@
 # Stephen Garver
 
-[stepgar@gmail.com](stepgar@gmail.com)  
 Buellton, CA  
+[stepgar@gmail.com](stepgar@gmail.com)  
 [linkedin.com/in/stepgar](linkedin.com/in/stepgar)  
+[github.com/tv3n](github.com/tv3n)  
 
 Stephen Garver is a Software Engineer with 10+ years experience working with web applications.
 
