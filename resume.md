@@ -2,42 +2,32 @@
 
 [stepgar@gmail.com](stepgar@gmail.com)  
 Buellton, CA  
-(linkedin.com/in/stepgar)[linkedin.com/in/stepgar]  
+[linkedin.com/in/stepgar](linkedin.com/in/stepgar)  
 
 Stephen Garver is a Software Engineer with 10+ years experience working with web applications.
 
-**Skills**  
-Programming Languages  
-* JavaScript ES6
-* CSharp
-* Visual Basic
-* HTML
-* SASS
-* LESS
-* CSS
+### Skills
+**Programming Languages**  
+JavaScript ES6, CSharp, Visual Basic, HTML, SASS, LESS, CSS
 
-Technologies  
-* Webpack
-* .NET Framework
-* SQL Server
+**Technologies**  
+Webpack, .NET Framework, SQL Server, IIS, GNU/Linux  
 
-Tools  
-* VIM  
-* Visual Studio  
-* Visual Studio Code  
-* Powershell  
+**Tools**  
+VIM, Visual Studio, Visual Studio Code, Powershell  
 
+### History
 **Software Engineer**  
 Strategic Healthcare Programs | December 2018 - Present  
 _Implement full stack software solutions using .Net, React.js and ES6. Design and implement; data models, interfaces, DTOs. Design and implement DDL for servers database. Load data implementing parameterized T-SQL. Write SQL scripts for sqlserver database. Leverage NUnit to facilitate automated unit testing. Track code changes with Perforce._
 
 _Create client-rich single page applications using modern web development technologies: ReactJS, ES6 (transpiled), jQuery, Bootstrap 3.x, SCSS, Less, Webpack and Gulp. Write Unit tests using Jasmine with the Karma test runner. Develop server-side models and Web API 2.0 end-points._
 
-** Scrum Master **  
+**Scrum Master **  
 Strategic Healthcare Programs | October 2018 - September 2019  
 Facilitate the Agile Scrum software development cycle as scrum master of the software team. Run the morning stand-up, draft the end of sprint report, and attending scrum of scrums.
 
-** Front-End Developer**  
+**Front-End Developer**  
 Strategic Healthcare Programs | August 2011 - December 2018  
 _Complete UX Front-end Development projects interacting with ASP .NET driven company website and web applications. Utilize jQuery, JavaScript and pre-processing languages (i.e. Sass and Less) to enhance the website user experience and dynamic nature of web pages. Incorporate cross-platform best practices using HTML5 Boilerplate and Twitter Bootstrap. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce graphic design solutions for promotional material including: advertisements, packaging and trade show signage._
 
