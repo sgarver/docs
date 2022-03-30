@@ -1,11 +1,50 @@
-<h2 style="font-weight: normal; letter-spacing: .5px; margin: 0;">Stephen Garver</h2>
-<h3 style="font-weight: normal; letter-spacing: .5px; margin-top: 0;">Santa Barbara, California | 805.350.4436 | stepgar@gmail.com</h3>
+# Stephen Garver
+
+[stepgar@gmail.com](stepgar@gmail.com)  
+Buellton, CA  
+(linkedin.com/in/stepgar)[linkedin.com/in/stepgar]  
+
+Stephen Garver is a Software Engineer with 10+ years experience working with web applications.
+
+**Skills**
+Programming Languages  
+* JavaScript ES6
+* CSharp
+* Visual Basic
+* HTML
+* SASS
+* LESS
+* CSS
+
+**Technologies**  
+* Webpack
+* .NET Framework
+* SQL Server
+
+**Tools**  
+* VIM  
+* Visual Studio  
+* Visual Studio Code  
+* Powershell  
+
+Strategic Healthcare Programs | December 2018 - Present  
+**Project Name - Role**  
+* Implemented blah using blah
+
 
 **Software Engineer**  
-Strategic Healthcare Programs | August 2011 - Present  
-_Implement full stack software solutions using .Net written in VB and CSharp. Design and implement; data models, interfaces, DTOs. Design and implement DDL for servers database. Leverage NUnit to facilitate automated unit testing. Track code changes with Perforce._
+Strategic Healthcare Programs | December 2018 - Present  
+_Implement full stack software solutions using .Net, React.js and ES6. Design and implement; data models, interfaces, DTOs. Design and implement DDL for servers database. Load data implementing parameterized T-SQL. Write SQL scripts for sqlserver database. Leverage NUnit to facilitate automated unit testing. Track code changes with Perforce._
 
-_Create client-rich single page applications using modern web development frameworks: ReactJS, ES6 (transpiled), AngularJS, jQuery, Bootstrap 3.x, SCSS, Less, ASP.NET and Gulp. Write Unit tests using Jasmine with the Karma test runner. Develop server-side models and Web API 2.0 end-points. Load data implementing parameterized T-SQL._
+_Create client-rich single page applications using modern web development technologies: ReactJS, ES6 (transpiled), jQuery, Bootstrap 3.x, SCSS, Less, Webpack and Gulp. Write Unit tests using Jasmine with the Karma test runner. Develop server-side models and Web API 2.0 end-points._
+
+** Scrum Master **  
+Strategic Healthcare Programs | October 2018 - September 2019  
+Facilitate the Agile Scrum software development cycle as scrum master of the software team. Run the morning stand-up, draft the end of sprint report, and attending scrum of scrums.
+
+** Front-End Developer**  
+Strategic Healthcare Programs | August 2011 - December 2018  
+_Complete UX Front-end Development projects interacting with ASP .NET driven company website and web applications. Utilize jQuery, JavaScript and pre-processing languages (i.e. Sass and Less) to enhance the website user experience and dynamic nature of web pages. Incorporate cross-platform best practices using HTML5 Boilerplate and Twitter Bootstrap. Create cross-client compatible e-mail newsletters using HTML and CSS. Use Adobe Creative Suite to produce graphic design solutions for promotional material including: advertisements, packaging and trade show signage._
 
 **Freelance Graphic Designer**  
 Various Companies | January 2004 - August 2012  
@@ -25,12 +64,13 @@ _Work with creative team to design press ready packaging. Produce illustrator ar
 - MTA: Software Development Fundamentals - Certified 2017 
 
 ### Education
-Santa Barbara City College  
-85 Units towards an A.S. Degree in Computer Science  
+Partial credit Computer Science Santa Barbara City College  
+Partial credit DeVry University Digital Forensics  
 
-Inducted as a Member of Phi Beta Kappa
+Inducted as a Member of Phi Beta Kappa  
 
 ### Open Source Contribution 
 **Node Developer and NPM Package Maintainer**  
 Rotu | November 2015 - 2016  
 _Develop and maintain Node.js application NPM package Rotu: a micro page router for the JADE template engine. Implement server-side JavaScript using ES6 syntax. Maintain project documentation using Markdown. Build Rotu-Boilerplate sample project website. Coordinate releases to Github and publishing the Rotu package to NPM._
+
