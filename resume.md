@@ -23,7 +23,7 @@ _Implement full stack software solutions using .Net, React.js and ES6. Design an
 
 _Create client-rich single page applications using modern web development technologies: ReactJS, ES6 (transpiled), jQuery, Bootstrap 3.x, SCSS, Less, Webpack and Gulp. Write Unit tests using Jasmine with the Karma test runner. Develop server-side models and Web API 2.0 end-points._
 
-**Scrum Master **  
+**Scrum Master**  
 Strategic Healthcare Programs | October 2018 - September 2019  
 Facilitate the Agile Scrum software development cycle as scrum master of the software team. Run the morning stand-up, draft the end of sprint report, and attending scrum of scrums.
 
