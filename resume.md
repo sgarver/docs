@@ -14,7 +14,7 @@ JavaScript ES6, CSharp, Visual Basic, HTML, SASS, LESS, CSS
 Webpack, .NET Framework, SQL Server, IIS, GNU/Linux  
 
 **Tools**  
-VIM, Visual Studio, Visual Studio Code, Powershell  
+VIM, Visual Studio, Visual Studio Code, Powershell, BASH  
 
 ### History
 **Software Engineer**  
