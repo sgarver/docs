@@ -1,7 +1,7 @@
 # Stephen Garver
 
 Buellton, CA  
-[stepgar@gmail.com](stepgar@gmail.com)  
+[stepgar@gmail.com](mailto:stepgar@gmail.com)  
 [linkedin.com/in/stepgar](https://linkedin.com/in/stepgar)  
 [github.com/tv3n](https://github.com/tv3n)  
 
